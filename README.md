@@ -44,7 +44,7 @@
   * react-testing-library
 * E2E
   * Playwright
-  * 
+
 ### CI/CD ツール
 * Github Actions
 
